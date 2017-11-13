@@ -1,3 +1,3 @@
 # hello-world
 First  repository
-This is to know how to commit changes
+This is to know how to commit changes.
